@@ -1,0 +1,1 @@
+move_speed = 4.0; damage = 5; alarm = 60;
